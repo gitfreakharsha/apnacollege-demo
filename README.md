@@ -1,5 +1,5 @@
 # apnacollege-demo
 first git repo
 <br>
-author-harshitha queen
+author-harshitha QQ
 
